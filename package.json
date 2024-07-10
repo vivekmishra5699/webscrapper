@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chromedriver": "^124.0.1",
+    "requests": "^0.3.0",
+    "urlencode": "^2.0.0"
+  }
+}
